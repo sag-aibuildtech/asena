@@ -11,4 +11,4 @@ Sag-AI + Asena
 John Gursoy
 
 ## Official Website
-https://sag-aibuildtech.com
+https://qasena.com
